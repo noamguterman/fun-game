@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: ab946dae01a44a71a9453a2cec772167
+timeCreated: 1557535806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300032: beam
+    21300010: bonusIconCurrency
+    21300040: bonusIconGauntlet
+    21300050: constellationLine
+    21300022: laserWarning
+    21300042: bonusIconPremium
+    21300006: gradient
+    21300048: bonusIconRebound
+    21300030: roundStar
+    21300014: bonusIconRare
+    21300028: crystalGlow
+    21300026: laser
+    21300044: unitSquareBrush
+    21300016: bonusIconGates
+    21300046: beamWarning
+    21300036: bonusIconChevron
+    21300034: diamondGlow
+    21300024: Cloud_05_A01
+    21300008: prizePeg
+    21300020: bonusIconFrenzy
+    21300012: blackHoleGlow
+    21300038: twinkleStar
+    21300018: twinkleDot
+    21300000: decoSocketLarge
+    21300004: decoSocketSmall
+    21300002: orbGlow
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 3
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beam
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: -16}
+      - - {x: 16, y: 16}
+        - {x: 16, y: -16}
+        - {x: -16, y: 16}
+      physicsShape:      
+      - - {x: -16.0, y: 16.0}
+        - {x: -16.0, y: -16.0}
+        - {x: 16.0, y: -16.0}
+        - {x: 16.0, y: 16.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconCurrency
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconGauntlet
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constellationLine
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 436
+        width: 2
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 13.5}
+        - {x: 1, y: 13.5}
+        - {x: -1, y: -13.5}
+      - - {x: -1, y: -13.5}
+        - {x: 1, y: 13.5}
+        - {x: 1, y: -13.5}
+      physicsShape:      
+      - - {x: 0, y: 13.5000}
+        - {x: 0, y: -13.5000}
+        - {x: 2.000, y: -13.5000}
+        - {x: 2.000, y: 13.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserWarning
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: -50, y: -50}
+      - - {x: -50, y: -50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:      
+      - - {x: -50.0, y: 50.0}
+        - {x: -50.0, y: -50.0}
+        - {x: 50.0, y: -50.0}
+        - {x: 50.0, y: 50.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconPremium
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradient
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 857
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: -16}
+      - - {x: 16, y: 16}
+        - {x: 16, y: -16}
+        - {x: -16, y: 16}
+      physicsShape:      
+      - - {x: -16.0, y: 16.0}
+        - {x: -16.0, y: -16.0}
+        - {x: 16.0, y: -16.0}
+        - {x: 16.0, y: 16.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconRebound
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 518
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundStar
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 791
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: -32}
+      - - {x: 32, y: 32}
+        - {x: 32, y: -32}
+        - {x: -32, y: 32}
+      physicsShape:      
+      - - {x: -32.00, y: 32.00}
+        - {x: -32.00, y: -32.00}
+        - {x: 32.00, y: -32.00}
+        - {x: 32.00, y: 32.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconRare
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalGlow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: -217}
+        - {x: -120, y: 217}
+        - {x: 120, y: -217}
+      - - {x: 120, y: 217}
+        - {x: 120, y: -217}
+        - {x: -120, y: 217}
+      physicsShape:      
+      - - {x: -120.0, y: 217.0000}
+        - {x: -120.0, y: -217.0000}
+        - {x: 120.0, y: -217.0000}
+        - {x: 120.0, y: 217.0000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: -16}
+      - - {x: 16, y: 16}
+        - {x: 16, y: -16}
+        - {x: -16, y: 16}
+      physicsShape:      
+      - - {x: -16.0, y: 16.0}
+        - {x: -16.0, y: -16.0}
+        - {x: 16.0, y: -16.0}
+        - {x: 16.0, y: 16.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unitSquareBrush
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 388
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: -50}
+      - - {x: 50, y: 50}
+        - {x: 50, y: -50}
+        - {x: -50, y: 50}
+      physicsShape:      
+      - - {x: -50.0, y: 50.0}
+        - {x: -50.0, y: -50.0}
+        - {x: 50.0, y: -50.0}
+        - {x: 50.0, y: 50.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconGates
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamWarning
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 388
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: 50, y: 50}
+        - {x: -50, y: -50}
+      - - {x: -50, y: -50}
+        - {x: 50, y: 50}
+        - {x: 50, y: -50}
+      physicsShape:      
+      - - {x: -50.0, y: 50.0}
+        - {x: -50.0, y: -50.0}
+        - {x: 50.0, y: -50.0}
+        - {x: 50.0, y: 50.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconChevron
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamondGlow
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135, y: -130}
+        - {x: -135, y: 131}
+        - {x: 135, y: -130}
+      - - {x: 135, y: 131}
+        - {x: 135, y: -130}
+        - {x: -135, y: 131}
+      physicsShape:      
+      - - {x: -128.0, y: 128.0}
+        - {x: -128.0, y: -128.0}
+        - {x: 128.0, y: -128.0}
+        - {x: 128.0, y: 128.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_05_A01
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 258
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: -128}
+      - - {x: 128, y: 128}
+        - {x: 128, y: -128}
+        - {x: -128, y: 128}
+      physicsShape:      
+      - - {x: -128.00, y: 128.00}
+        - {x: -128.00, y: -128.00}
+        - {x: 128.00, y: -128.00}
+        - {x: 128.00, y: 128.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prizePeg
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:      
+      - - {x: -128.0, y: 128.0}
+        - {x: -128.0, y: -128.0}
+        - {x: 128.0, y: -128.0}
+        - {x: 128.0, y: 128.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusIconFrenzy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackHoleGlow
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      - - {x: 64, y: 64}
+        - {x: 64, y: -64}
+        - {x: -64, y: 64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twinkleStar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: -32}
+      - - {x: 32, y: 32}
+        - {x: 32, y: -32}
+        - {x: -32, y: 32}
+      physicsShape:      
+      - - {x: -32.00, y: 32.00}
+        - {x: -32.00, y: -32.00}
+        - {x: 32.00, y: -32.00}
+        - {x: 32.00, y: 32.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twinkleDot
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: -128}
+      - - {x: 128, y: 128}
+        - {x: 128, y: -128}
+        - {x: -128, y: 128}
+      physicsShape:      
+      - - {x: -128.00, y: 128.00}
+        - {x: -128.00, y: -128.00}
+        - {x: 128.00, y: -128.00}
+        - {x: 128.00, y: 128.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoSocketLarge
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 160
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.3545182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -66.5}
+        - {x: -80, y: 66.49995}
+        - {x: 80, y: -66.5}
+      - - {x: 80, y: 66.49995}
+        - {x: 80, y: -66.5}
+        - {x: -80, y: 66.49995}
+      physicsShape:      
+      - - {x: -80, y: 85.8490}
+        - {x: -80, y: -47.1509}
+        - {x: 80, y: -47.1509}
+        - {x: 80, y: 85.8490}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoSocketSmall
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 776
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.3545182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -33.5}
+        - {x: -40, y: 33.5}
+        - {x: 40, y: -33.5}
+      - - {x: 40, y: 33.5}
+        - {x: 40, y: -33.5}
+        - {x: -40, y: 33.5}
+      physicsShape:      
+      - - {x: -40.0, y: 43.2473}
+        - {x: -40.0, y: -23.7527}
+        - {x: 40.0, y: -23.7527}
+        - {x: 40.0, y: 43.2473}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbGlow
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: 64, y: 64}
+        - {x: -64, y: -64}
+      - - {x: -64, y: -64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape:      
+      - - {x: -64.0, y: 64.0}
+        - {x: -64.0, y: -64.0}
+        - {x: 64.0, y: -64.0}
+        - {x: 64.0, y: 64.0}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

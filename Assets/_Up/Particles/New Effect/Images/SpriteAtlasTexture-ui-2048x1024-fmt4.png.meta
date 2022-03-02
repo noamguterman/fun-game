@@ -1,0 +1,2682 @@
+fileFormatVersion: 2
+guid: 64417b5169d84e0eaf2fe79a76e25be6
+timeCreated: 1557535806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300152: missionBackingOnFish
+    21300104: shareIconAndroid
+    21300054: volcano
+    21300018: instagramIcon
+    21300112: uiCard
+    21300164: dialogTop
+    21300038: onSale
+    21300126: cardBacking
+    21300008: shareIconIOS
+    21300072: decoIcon
+    21300056: tutorialSide
+    21300076: cardMaskStore
+    21300082: thoughtBubble
+    21300182: logo_zh-CN
+    21300136: cardMask
+    21300004: 2xAdditive
+    21300158: buttonNoGlow
+    21300020: 2xDiffuse
+    21300060: sfxIcon
+    21300034: tutorial
+    21300074: progress
+    21300006: speechBubble
+    21300042: bestValue
+    21300002: setDotFull
+    21300044: radioDish
+    21300014: mostPopular
+    21300154: premium
+    21300100: basicBackingTop
+    21300146: decoCardIconGrower
+    21300180: missionCombo
+    21300086: twitterIcon
+    21300098: rewardMystery
+    21300064: comboTop
+    21300084: logo_ko
+    21300172: logo_zh-TW
+    21300162: missionStar
+    21300088: adIcon
+    21300128: uiBacking
+    21300142: missionZone
+    21300170: thoughtBubbleSmall
+    21300040: buttonTabSides
+    21300022: fishIcon
+    21300118: decoCardIconJingle
+    21300116: shopRareFrame
+    21300062: shopIcon
+    21300058: setDotEmpty
+    21300000: buttonShop
+    21300132: photoCreditIcon
+    21300102: albumIcon
+    21300026: newsIcon
+    21300124: tick
+    21300174: missionShell
+    21300032: missionBacking
+    21300028: buttonTabBase
+    21300176: shopFrame
+    21300138: decoCardIconSquirter
+    21300078: logo_ja
+    21300096: buttonShopGold
+    21300052: arrow
+    21300110: recessedBackingGradient
+    21300122: currency
+    21300090: musicIcon
+    21300080: smallArrow
+    21300050: buttonGoNoGlow
+    21300016: flourish
+    21300114: sunburst2
+    21300106: backingRaised
+    21300030: notificationIcon
+    21300070: uiBox
+    21300178: cardBackingRare
+    21300108: externalLinkIcon
+    21300068: basicGradient
+    21300150: newItemSash
+    21300120: missionGoldStar
+    21300144: zoneIcon
+    21300130: uiZoneCardBorder
+    21300134: camera
+    21300046: speechBubbleArrow
+    21300010: facebookIcon
+    21300092: recessedBacking
+    21300012: googlePlayIcon
+    21300024: notificationBell
+    21300094: gradientClear
+    21300160: cardFrame
+    21300184: cardStrip
+    21300156: dialogBase
+    21300048: basicBackingBottom
+    21300036: gameCenterIcon
+    21300166: logo_en
+    21300066: optionsIcon
+    21300168: basicGlow
+    21300148: zoneCardBacking
+    21300140: decoCardIconPopper
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: missionBackingOnFish
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 64}
+        - {x: 48, y: 64}
+        - {x: -48, y: -64}
+      - - {x: -48, y: -64}
+        - {x: 48, y: 64}
+        - {x: 48, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shareIconAndroid
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 418
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 35.5}
+        - {x: 38, y: 35.5}
+        - {x: -38, y: -35.5}
+      - - {x: -38, y: -35.5}
+        - {x: 38, y: 35.5}
+        - {x: 38, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 98
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 75}
+        - {x: 61, y: 75}
+        - {x: -61, y: -75}
+      - - {x: -61, y: -75}
+        - {x: 61, y: 75}
+        - {x: 61, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: instagramIcon
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 36}
+        - {x: 36, y: 36}
+        - {x: -36, y: -36}
+      - - {x: -36, y: -36}
+        - {x: 36, y: 36}
+        - {x: 36, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uiCard
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: -8, y: -8}
+      - - {x: -8, y: -8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogTop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 343
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -171.5, y: 43.5}
+        - {x: 171.5, y: 43.5}
+        - {x: -171.5, y: -43.5}
+      - - {x: -171.5, y: -43.5}
+        - {x: 171.5, y: 43.5}
+        - {x: 171.5, y: -43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onSale
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 776
+        width: 217
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 48}
+        - {x: 108.5, y: 48}
+        - {x: -108.5, y: -48}
+      - - {x: -108.5, y: -48}
+        - {x: 108.5, y: 48}
+        - {x: 108.5, y: -48}
+      physicsShape:      
+      - - {x: 72.5000, y: -46.000}
+        - {x: 94.5000, y: -44.00}
+        - {x: 101.5000, y: -40.0}
+        - {x: 106.5000, y: 1.0000}
+        - {x: 106.5000, y: 22.000}
+        - {x: 97.5000, y: 33.0000}
+        - {x: 93.5000, y: 36.00}
+        - {x: 67.5000, y: 39.0000}
+        - {x: -60.5000, y: 39.0000}
+        - {x: -90.5000, y: 36.00}
+        - {x: -99.5000, y: 30.000}
+        - {x: -106.5000, y: 21.0000}
+        - {x: -106.5000, y: 3.0000}
+        - {x: -101.5000, y: -40.0}
+        - {x: -95.5000, y: -46.000}
+        - {x: -66.5000, y: -46.000}
+        - {x: -60.5000, y: -28.00}
+        - {x: 59.5000, y: -28.00}
+        - {x: 69.5000, y: -44.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardBacking
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 673
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: 64, y: 64}
+        - {x: -64, y: -64}
+      - - {x: -64, y: -64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shareIconIOS
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 0
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 40}
+        - {x: 24, y: 40}
+        - {x: -24, y: -40}
+      - - {x: -24, y: -40}
+        - {x: 24, y: 40}
+        - {x: 24, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoIcon
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 450
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0.4929003, y: 0.2452977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 58.49999}
+        - {x: 47.5, y: 58.49999}
+        - {x: -47.5, y: -58.5}
+      - - {x: -47.5, y: -58.5}
+        - {x: 47.5, y: 58.49999}
+        - {x: 47.5, y: -58.5}
+      physicsShape:      
+      - - {x: 59.1745, y: 49.3002}
+        - {x: 71.1745, y: 70.3002}
+        - {x: 49.1745, y: 99.3002}
+        - {x: 38.1745, y: 105.3002}
+        - {x: -43.4162, y: 104.3002}
+        - {x: -62.8255, y: 68.3002}
+        - {x: -43.8255, y: 48.3002}
+        - {x: -54.8255, y: 49.3002}
+        - {x: -70.8255, y: 44.3002}
+        - {x: -78.8255, y: 40.3002}
+        - {x: -78.8255, y: 12.3002}
+        - {x: -75.8255, y: 8.3002}
+        - {x: -65.8255, y: 0.3002}
+        - {x: -20.8255, y: -45.6998}
+        - {x: 70.1745, y: -45.6998}
+        - {x: 79.1745, y: -18.6998}
+        - {x: 79.1745, y: 43.3002}
+        - {x: 59.1745, y: 49.3002}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialSide
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 288
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 44, y: 77, z: 42, w: 45}
+      outline:
+      - - {x: -48, y: 80}
+        - {x: 48, y: 80}
+        - {x: -48, y: -80}
+      - - {x: -48, y: -80}
+        - {x: 48, y: 80}
+        - {x: 48, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardMaskStore
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 874
+        width: 217
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline:
+      - - {x: -108.5, y: 48}
+        - {x: 108.5, y: 48}
+        - {x: -108.5, y: -48}
+      - - {x: -108.5, y: -48}
+        - {x: 108.5, y: 48}
+        - {x: 108.5, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thoughtBubble
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 41, z: 41, w: 41}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: 96, y: 96}
+        - {x: -96, y: -96}
+      - - {x: -96, y: -96}
+        - {x: 96, y: 96}
+        - {x: 96, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_zh-CN
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 245
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: -122.5, y: -50.5}
+      - - {x: -122.5, y: -50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: 122.5, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardMask
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 287
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: 64, y: 64}
+        - {x: -64, y: -64}
+      - - {x: -64, y: -64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2xAdditive
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 597
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 40}
+        - {x: 46.5, y: 40}
+        - {x: -46.5, y: -40}
+      - - {x: -46.5, y: -40}
+        - {x: 46.5, y: 40}
+        - {x: 46.5, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonNoGlow
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 82
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 15, z: 18, w: 15}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: 18, y: 28}
+        - {x: -18, y: -28}
+      - - {x: -18, y: -28}
+        - {x: 18, y: 28}
+        - {x: 18, y: -28}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2xDiffuse
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 200
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15.5}
+        - {x: 24, y: 15.5}
+        - {x: -24, y: -15.5}
+      - - {x: -24, y: -15.5}
+        - {x: 24, y: 15.5}
+        - {x: 24, y: -15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sfxIcon
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 95
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 21.5}
+        - {x: 23, y: 21.5}
+        - {x: -23, y: -21.5}
+      - - {x: -23, y: -21.5}
+        - {x: 23, y: 21.5}
+        - {x: 23, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 830
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 43, z: 43, w: 43}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: 42, y: 42}
+        - {x: -42, y: -42}
+      - - {x: -42, y: -42}
+        - {x: 42, y: 42}
+        - {x: 42, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 140
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 17, z: 17, w: 17}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: -18, y: -18}
+      - - {x: -18, y: -18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubble
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 288
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 57, y: 57, z: 57, w: 57}
+      outline:
+      - - {x: -57, y: 57}
+        - {x: 57, y: 57}
+        - {x: -57, y: -57}
+      - - {x: -57, y: -57}
+        - {x: 57, y: 57}
+        - {x: 57, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bestValue
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 217
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 48}
+        - {x: 108.5, y: 48}
+        - {x: -108.5, y: -48}
+      - - {x: -108.5, y: -48}
+        - {x: 108.5, y: 48}
+        - {x: 108.5, y: -48}
+      physicsShape:      
+      - - {x: 72.5000, y: -46.000}
+        - {x: 94.5000, y: -44.00}
+        - {x: 101.5000, y: -40.0}
+        - {x: 106.5000, y: 1.0000}
+        - {x: 106.5000, y: 22.000}
+        - {x: 97.5000, y: 33.0000}
+        - {x: 93.5000, y: 36.00}
+        - {x: 67.5000, y: 39.0000}
+        - {x: -60.5000, y: 39.0000}
+        - {x: -90.5000, y: 36.00}
+        - {x: -99.5000, y: 30.000}
+        - {x: -106.5000, y: 21.0000}
+        - {x: -106.5000, y: 3.0000}
+        - {x: -101.5000, y: -40.0}
+        - {x: -95.5000, y: -46.000}
+        - {x: -66.5000, y: -46.000}
+        - {x: -60.5000, y: -28.00}
+        - {x: 59.5000, y: -28.00}
+        - {x: 69.5000, y: -44.00}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setDotFull
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 72
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: -17, y: -17}
+      - - {x: -17, y: -17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioDish
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 147
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 69}
+        - {x: 61, y: 69}
+        - {x: -61, y: -69}
+      - - {x: -61, y: -69}
+        - {x: 61, y: 69}
+        - {x: 61, y: -69}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mostPopular
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 677
+        width: 217
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 48.5}
+        - {x: 108.5, y: 48.5}
+        - {x: -108.5, y: -48.5}
+      - - {x: -108.5, y: -48.5}
+        - {x: 108.5, y: 48.5}
+        - {x: 108.5, y: -48.5}
+      physicsShape:      
+      - - {x: 72.5000, y: -46.5000}
+        - {x: 94.5000, y: -44.5000}
+        - {x: 101.5000, y: -40.5000}
+        - {x: 106.5000, y: 0.5000}
+        - {x: 106.5000, y: 21.5000}
+        - {x: 97.5000, y: 32.5000}
+        - {x: 93.5000, y: 35.5000}
+        - {x: 67.5000, y: 38.5000}
+        - {x: -60.5000, y: 38.5000}
+        - {x: -90.5000, y: 35.5000}
+        - {x: -99.5000, y: 29.5000}
+        - {x: -106.5000, y: 20.5000}
+        - {x: -106.5000, y: 2.5000}
+        - {x: -101.5000, y: -40.5000}
+        - {x: -95.5000, y: -46.5000}
+        - {x: -66.5000, y: -46.5000}
+        - {x: -60.5000, y: -28.5000}
+        - {x: 59.5000, y: -28.5000}
+        - {x: 69.5000, y: -44.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premium
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 830
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 46}
+        - {x: 41.5, y: 46}
+        - {x: -41.5, y: -46}
+      - - {x: -41.5, y: -46}
+        - {x: 41.5, y: 46}
+        - {x: 41.5, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicBackingTop
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 15, z: 0, w: 1}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: -8, y: -8}
+      - - {x: -8, y: -8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoCardIconGrower
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: -32, y: -32}
+      - - {x: -32, y: -32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      physicsShape:      
+      - - {x: 58.5000, y: 19.5000}
+        - {x: 70.5000, y: 40.5000}
+        - {x: 48.5000, y: 69.5000}
+        - {x: 37.5000, y: 75.5000}
+        - {x: -44.0907, y: 74.5000}
+        - {x: -63.5000, y: 38.5000}
+        - {x: -44.5000, y: 18.5000}
+        - {x: -55.5000, y: 19.5000}
+        - {x: -71.5000, y: 14.5000}
+        - {x: -79.5000, y: 10.5000}
+        - {x: -79.5000, y: -17.5000}
+        - {x: -76.5000, y: -21.5000}
+        - {x: -66.5000, y: -29.5000}
+        - {x: -21.5000, y: -75.5000}
+        - {x: 69.5000, y: -75.5000}
+        - {x: 78.5000, y: -48.5000}
+        - {x: 78.5000, y: 13.5000}
+        - {x: 58.5000, y: 19.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionCombo
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 786
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: -47.5, y: -47.5}
+      - - {x: -47.5, y: -47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: 47.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitterIcon
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 0
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: -32, y: -26}
+      - - {x: -32, y: -26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardMystery
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 44}
+        - {x: 31, y: 44}
+        - {x: -31, y: -44}
+      - - {x: -31, y: -44}
+        - {x: 31, y: 44}
+        - {x: 31, y: -44}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comboTop
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 764
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 32}
+        - {x: 64, y: 32}
+        - {x: -64, y: -32}
+      - - {x: -64, y: -32}
+        - {x: 64, y: 32}
+        - {x: 64, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_ko
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 245
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: -122.5, y: -50.5}
+      - - {x: -122.5, y: -50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: 122.5, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_zh-TW
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 245
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: -122.5, y: -50.5}
+      - - {x: -122.5, y: -50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: 122.5, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionStar
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 228
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: -47.5, y: -47.5}
+      - - {x: -47.5, y: -47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: 47.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adIcon
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 679
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 37}
+        - {x: 40, y: 37}
+        - {x: -40, y: -37}
+      - - {x: -40, y: -37}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uiBacking
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 17, z: 17, w: 17}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: -17, y: -17}
+      - - {x: -17, y: -17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionZone
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 689
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: -47.5, y: -47.5}
+      - - {x: -47.5, y: -47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: 47.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thoughtBubbleSmall
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 689
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: -47.5, y: -47.5}
+      - - {x: -47.5, y: -47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: 47.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonTabSides
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 2
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 10, z: 1, w: 14}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: 1, y: 12}
+        - {x: -1, y: -12}
+      - - {x: -1, y: -12}
+        - {x: 1, y: 12}
+        - {x: 1, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishIcon
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 578
+        width: 130
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 54.5}
+        - {x: 65, y: 54.5}
+        - {x: -65, y: -54.5}
+      - - {x: -65, y: -54.5}
+        - {x: 65, y: 54.5}
+        - {x: 65, y: -54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoCardIconJingle
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: -32, y: -32}
+      - - {x: -32, y: -32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      physicsShape:      
+      - - {x: 58.5000, y: 19.5000}
+        - {x: 70.5000, y: 40.5000}
+        - {x: 48.5000, y: 69.5000}
+        - {x: 37.5000, y: 75.5000}
+        - {x: -44.0907, y: 74.5000}
+        - {x: -63.5000, y: 38.5000}
+        - {x: -44.5000, y: 18.5000}
+        - {x: -55.5000, y: 19.5000}
+        - {x: -71.5000, y: 14.5000}
+        - {x: -79.5000, y: 10.5000}
+        - {x: -79.5000, y: -17.5000}
+        - {x: -76.5000, y: -21.5000}
+        - {x: -66.5000, y: -29.5000}
+        - {x: -21.5000, y: -75.5000}
+        - {x: 69.5000, y: -75.5000}
+        - {x: 78.5000, y: -48.5000}
+        - {x: 78.5000, y: 13.5000}
+        - {x: 58.5000, y: 19.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopRareFrame
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 66
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 17, z: 18, w: 16}
+      outline:
+      - - {x: -18, y: 46.5}
+        - {x: 18, y: 46.5}
+        - {x: -18, y: -46.5}
+      - - {x: -18, y: -46.5}
+        - {x: 18, y: 46.5}
+        - {x: 18, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopIcon
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 147
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 69.5}
+        - {x: 58.5, y: 69.5}
+        - {x: -58.5, y: -69.5}
+      - - {x: -58.5, y: -69.5}
+        - {x: 58.5, y: 69.5}
+        - {x: 58.5, y: -69.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setDotEmpty
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 90
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: -17, y: -17}
+      - - {x: -17, y: -17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonShop
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 841
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 86, z: 18, w: 18}
+      outline:
+      - - {x: -18, y: 80}
+        - {x: 18, y: 80}
+        - {x: -18, y: -80}
+      - - {x: -18, y: -80}
+        - {x: 18, y: 80}
+        - {x: 18, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoCreditIcon
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 126
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 12}
+        - {x: 16, y: 12}
+        - {x: -16, y: -12}
+      - - {x: -16, y: -12}
+        - {x: 16, y: 12}
+        - {x: 16, y: -12}
+      physicsShape:      
+      - - {x: 58.5000, y: 19.5000}
+        - {x: 70.5000, y: 40.5000}
+        - {x: 48.5000, y: 69.5000}
+        - {x: 37.5000, y: 75.5000}
+        - {x: -44.0907, y: 74.5000}
+        - {x: -63.5000, y: 38.5000}
+        - {x: -44.5000, y: 18.5000}
+        - {x: -55.5000, y: 19.5000}
+        - {x: -71.5000, y: 14.5000}
+        - {x: -79.5000, y: 10.5000}
+        - {x: -79.5000, y: -17.5000}
+        - {x: -76.5000, y: -21.5000}
+        - {x: -66.5000, y: -29.5000}
+        - {x: -21.5000, y: -75.5000}
+        - {x: 69.5000, y: -75.5000}
+        - {x: 78.5000, y: -48.5000}
+        - {x: 78.5000, y: 13.5000}
+        - {x: 58.5000, y: 19.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: albumIcon
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 121
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 72.5}
+        - {x: 60.5, y: 72.5}
+        - {x: -60.5, y: -72.5}
+      - - {x: -60.5, y: -72.5}
+        - {x: 60.5, y: 72.5}
+        - {x: 60.5, y: -72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsIcon
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 250
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 38}
+        - {x: 36, y: 38}
+        - {x: -36, y: -38}
+      - - {x: -36, y: -38}
+        - {x: 36, y: 38}
+        - {x: 36, y: -38}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tick
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 325
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -46.5, y: 45.5}
+        - {x: 46.5, y: 45.5}
+        - {x: -46.5, y: -45.5}
+      - - {x: -46.5, y: -45.5}
+        - {x: 46.5, y: 45.5}
+        - {x: 46.5, y: -45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionShell
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 786
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: -47.5, y: -47.5}
+      - - {x: -47.5, y: -47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: 47.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionBacking
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 569
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: 48, y: 48}
+        - {x: -48, y: -48}
+      - - {x: -48, y: -48}
+        - {x: 48, y: 48}
+        - {x: 48, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonTabBase
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 0
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 28, z: 40, w: 14}
+      outline:
+      - - {x: -40, y: 20.5}
+        - {x: 40, y: 20.5}
+        - {x: -40, y: -20.5}
+      - - {x: -40, y: -20.5}
+        - {x: 40, y: 20.5}
+        - {x: 40, y: -20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopFrame
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 17, z: 18, w: 16}
+      outline:
+      - - {x: -18, y: 46.5}
+        - {x: 18, y: 46.5}
+        - {x: -18, y: -46.5}
+      - - {x: -18, y: -46.5}
+        - {x: 18, y: 46.5}
+        - {x: 18, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoCardIconSquirter
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: -32, y: -32}
+      - - {x: -32, y: -32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      physicsShape:      
+      - - {x: 58.5000, y: 19.5000}
+        - {x: 70.5000, y: 40.5000}
+        - {x: 48.5000, y: 69.5000}
+        - {x: 37.5000, y: 75.5000}
+        - {x: -44.0907, y: 74.5000}
+        - {x: -63.5000, y: 38.5000}
+        - {x: -44.5000, y: 18.5000}
+        - {x: -55.5000, y: 19.5000}
+        - {x: -71.5000, y: 14.5000}
+        - {x: -79.5000, y: 10.5000}
+        - {x: -79.5000, y: -17.5000}
+        - {x: -76.5000, y: -21.5000}
+        - {x: -66.5000, y: -29.5000}
+        - {x: -21.5000, y: -75.5000}
+        - {x: 69.5000, y: -75.5000}
+        - {x: 78.5000, y: -48.5000}
+        - {x: 78.5000, y: 13.5000}
+        - {x: 58.5000, y: 19.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_ja
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 245
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: -122.5, y: -50.5}
+      - - {x: -122.5, y: -50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: 122.5, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonShopGold
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 679
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 86, z: 18, w: 18}
+      outline:
+      - - {x: -18, y: 80}
+        - {x: 18, y: 80}
+        - {x: -18, y: -80}
+      - - {x: -18, y: -80}
+        - {x: 18, y: 80}
+        - {x: 18, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 74
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0.5}
+      border: {x: 2, y: 0, z: 50, w: 0}
+      outline:
+      - - {x: -26.5, y: 46}
+        - {x: 26.5, y: 46}
+        - {x: -26.5, y: -46}
+      - - {x: -26.5, y: -46}
+        - {x: 26.5, y: 46}
+        - {x: 26.5, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recessedBackingGradient
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 597
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: 18, y: 32}
+        - {x: -18, y: -32}
+      - - {x: -18, y: -32}
+        - {x: 18, y: 32}
+        - {x: 18, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: currency
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 450
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 63}
+        - {x: 60, y: 63}
+        - {x: -60, y: -63}
+      - - {x: -60, y: -63}
+        - {x: 60, y: 63}
+        - {x: 60, y: -63}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicIcon
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 264
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22.5}
+        - {x: 23, y: 22.5}
+        - {x: -23, y: -22.5}
+      - - {x: -23, y: -22.5}
+        - {x: 23, y: 22.5}
+        - {x: 23, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallArrow
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 264
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 32.5}
+        - {x: 20.5, y: 32.5}
+        - {x: -20.5, y: -32.5}
+      - - {x: -20.5, y: -32.5}
+        - {x: 20.5, y: 32.5}
+        - {x: 20.5, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonGoNoGlow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 208
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 16, z: 0, w: 63}
+      outline:
+      - - {x: -104, y: 95}
+        - {x: 104, y: 95}
+        - {x: -104, y: -95}
+      - - {x: -104, y: -95}
+        - {x: 104, y: 95}
+        - {x: 104, y: -95}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flourish
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 361
+        width: 327
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163.5, y: 27.5}
+        - {x: 163.5, y: 27.5}
+        - {x: -163.5, y: -27.5}
+      - - {x: -163.5, y: -27.5}
+        - {x: 163.5, y: 27.5}
+        - {x: 163.5, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunburst2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backingRaised
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 54
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 15, z: 18, w: 15}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: 18, y: 28}
+        - {x: -18, y: -28}
+      - - {x: -18, y: -28}
+        - {x: 18, y: 28}
+        - {x: 18, y: -28}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notificationIcon
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 234
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21}
+        - {x: 21, y: 21}
+        - {x: -21, y: -21}
+      - - {x: -21, y: -21}
+        - {x: 21, y: 21}
+        - {x: 21, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uiBox
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 194
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -21, y: 21}
+        - {x: 21, y: 21}
+        - {x: -21, y: -21}
+      - - {x: -21, y: -21}
+        - {x: 21, y: 21}
+        - {x: 21, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardBackingRare
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 543
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: 64, y: 64}
+        - {x: -64, y: -64}
+      - - {x: -64, y: -64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: externalLinkIcon
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 130
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: 48, y: 48}
+        - {x: -48, y: -48}
+      - - {x: -48, y: -48}
+        - {x: 48, y: 48}
+        - {x: 48, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicGradient
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 491
+        width: 2
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 66, z: 0, w: 65}
+      outline:
+      - - {x: -1, y: 64}
+        - {x: 1, y: 64}
+        - {x: -1, y: -64}
+      - - {x: -1, y: -64}
+        - {x: 1, y: 64}
+        - {x: 1, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newItemSash
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 418
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionGoldStar
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 667
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: -47.5, y: -47.5}
+      - - {x: -47.5, y: -47.5}
+        - {x: 47.5, y: 47.5}
+        - {x: 47.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoneIcon
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 122
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 37}
+        - {x: 37, y: 37}
+        - {x: -37, y: -37}
+      - - {x: -37, y: -37}
+        - {x: 37, y: 37}
+        - {x: 37, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uiZoneCardBorder
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 228
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: 25, y: 25}
+        - {x: -25, y: -25}
+      - - {x: -25, y: -25}
+        - {x: 25, y: 25}
+        - {x: 25, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camera
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 418
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 61.5}
+        - {x: 72, y: 61.5}
+        - {x: -72, y: -61.5}
+      - - {x: -72, y: -61.5}
+        - {x: 72, y: 61.5}
+        - {x: 72, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleArrow
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 508
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0.460005, y: 0.8097314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 43.5}
+        - {x: 49, y: 43.5}
+        - {x: -49, y: -43.5}
+      - - {x: -49, y: -43.5}
+        - {x: 49, y: 43.5}
+        - {x: 49, y: -43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookIcon
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 36}
+        - {x: 36, y: 36}
+        - {x: -36, y: -36}
+      - - {x: -36, y: -36}
+        - {x: 36, y: 36}
+        - {x: 36, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recessedBacking
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: 18, y: 18}
+        - {x: -18, y: -18}
+      - - {x: -18, y: -18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: googlePlayIcon
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 883
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 40}
+        - {x: 54, y: 40}
+        - {x: -54, y: -40}
+      - - {x: -54, y: -40}
+        - {x: 54, y: 40}
+        - {x: 54, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notificationBell
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: 23, y: 23}
+        - {x: -23, y: -23}
+      - - {x: -23, y: -23}
+        - {x: 23, y: 23}
+        - {x: 23, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradientClear
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 233
+        width: 256
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 1}
+        - {x: 128, y: 1}
+        - {x: -128, y: -1}
+      - - {x: -128, y: -1}
+        - {x: 128, y: 1}
+        - {x: 128, y: -1}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardFrame
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 803
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 59, y: 59, z: 59, w: 59}
+      outline:
+      - - {x: -60.00002, y: 60.00002}
+        - {x: 60.00002, y: 60.00002}
+        - {x: -60.00002, y: -60.00002}
+      - - {x: -60.00002, y: -60.00002}
+        - {x: 60.00002, y: 60.00002}
+        - {x: 60.00002, y: -60.00002}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardStrip
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 498
+        width: 2
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 32}
+        - {x: 1, y: 32}
+        - {x: -1, y: -32}
+      - - {x: -1, y: -32}
+        - {x: 1, y: 32}
+        - {x: 1, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogBase
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 539
+        width: 179
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 68}
+        - {x: 89.5, y: 68}
+        - {x: -89.5, y: -68}
+      - - {x: -89.5, y: -68}
+        - {x: 89.5, y: 68}
+        - {x: 89.5, y: -68}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicBackingBottom
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 15}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: -8, y: -8}
+      - - {x: -8, y: -8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameCenterIcon
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 404
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 51}
+        - {x: 50, y: 51}
+        - {x: -50, y: -51}
+      - - {x: -50, y: -51}
+        - {x: 50, y: 51}
+        - {x: 50, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_en
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 258
+        width: 245
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: -122.5, y: -50.5}
+      - - {x: -122.5, y: -50.5}
+        - {x: 122.5, y: 50.5}
+        - {x: 122.5, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optionsIcon
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 140
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 29}
+        - {x: 29.5, y: 29}
+        - {x: -29.5, y: -29}
+      - - {x: -29.5, y: -29}
+        - {x: 29.5, y: 29}
+        - {x: 29.5, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicGlow
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: -16, y: -16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoneCardBacking
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 43
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 89, y: 1, z: 2, w: 25}
+      outline:
+      - - {x: -46, y: 13.5}
+        - {x: 46, y: 13.5}
+        - {x: -46, y: -13.5}
+      - - {x: -46, y: -13.5}
+        - {x: 46, y: 13.5}
+        - {x: 46, y: -13.5}
+      physicsShape:      
+      - - {x: -28.00, y: 13.5000}
+        - {x: -46.000, y: 0.5000}
+        - {x: -46.000, y: -13.5000}
+        - {x: 46.000, y: -13.5000}
+        - {x: 46.000, y: -4.5000}
+        - {x: 12.00, y: 13.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoCardIconPopper
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: -32, y: -32}
+      - - {x: -32, y: -32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      physicsShape:      
+      - - {x: 58.5000, y: 19.5000}
+        - {x: 70.5000, y: 40.5000}
+        - {x: 48.5000, y: 69.5000}
+        - {x: 37.5000, y: 75.5000}
+        - {x: -44.0907, y: 74.5000}
+        - {x: -63.5000, y: 38.5000}
+        - {x: -44.5000, y: 18.5000}
+        - {x: -55.5000, y: 19.5000}
+        - {x: -71.5000, y: 14.5000}
+        - {x: -79.5000, y: 10.5000}
+        - {x: -79.5000, y: -17.5000}
+        - {x: -76.5000, y: -21.5000}
+        - {x: -66.5000, y: -29.5000}
+        - {x: -21.5000, y: -75.5000}
+        - {x: 69.5000, y: -75.5000}
+        - {x: 78.5000, y: -48.5000}
+        - {x: 78.5000, y: 13.5000}
+        - {x: 58.5000, y: 19.5000}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

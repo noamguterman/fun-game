@@ -1,0 +1,6 @@
+level,score,jackPot,collectIcon
+1,10,,
+2,20,3,
+3,30,5,
+4,300,,
+5,500,,
